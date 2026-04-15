@@ -1,0 +1,194 @@
+.container {
+    width: 700px;
+    height: 950px;
+    border-radius: 20px;
+    background-color: #FFF2F2;
+    margin: auto;
+    top: 10px;
+    padding-top: initial;
+    position: relative;
+    overflow: hidden;
+}
+.eventTitle1 {
+    position: absolute;
+    top: -20px;
+    left: 170px;
+    font-family: "League Script", cursive;
+    font-size: 120px;
+    color: #93713E;
+}
+.eventTitle2 {
+    position: absolute;
+    top: 50px;
+    left: 250px;
+    font-family: "League Script", cursive;
+    font-size: 120px;
+    color: #93713E;
+}
+.date {
+    position: absolute;
+    overflow: hidden;
+    top: 300px;
+    left: 240px;
+    color: #93713E;
+    font-size: 18px;
+}
+.time {
+    position: absolute;
+    overflow: hidden;
+    top: 300px;
+    left: 330px;
+    color: #93713E;
+    font-size: 18px;
+}
+.desc {
+    position: absolute;
+    overflow: hidden;
+    top: 400px;
+    left: 120px;
+    right: 90px;
+    text-align: center;
+    color: #93713E;
+}
+.location {
+    position: absolute;
+    overflow: hidden;
+    top: 520px;
+    left: 190px;
+    color: #93713E;
+}
+.contact {
+    position: absolute;
+    overflow: hidden;
+    top: 760px;
+    left: 170px;
+    text-align: center;
+    color: #93713E;
+}
+.rsvp {
+    position: absolute;
+    overflow: hidden;
+    top: 860px;
+    left: 330px;
+    color: #aeaeae;
+    border: solid 2px;
+    border-radius: 5px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    padding-left: 8px;
+    padding-right: 9px;
+}
+.confirmed1 {
+    position: absolute;
+    top: 20px;
+    left: 150px;
+    font-family: "League Script", cursive;
+    font-size: 120px;
+    color: #93713E;
+}
+.confirmed2 {
+    position: absolute;
+    top: 70px;
+    left: 420px;
+    font-family: "League Script", cursive;
+    font-size: 120px;
+    color: #93713E;
+}
+#map {
+    position: absolute;
+    top: 460px;
+    left: 360px;
+    width: 180px;
+    border: 1px solid #93713E;
+    border-radius: 20px;
+}
+
+#circle {
+    width: 690px;
+    position: absolute;
+    top: -8px;
+    left: 5px;
+}
+.divider1 {
+    font-size: 15px;
+    color: #93713E;
+    position: absolute;
+    top: 345px;
+    left: 280px;
+}
+.divider2 {
+    font-size: 15px;
+    color: #93713E;
+    position: absolute;
+    top: 460px;
+    left: 280px;
+}
+#cat {
+    width: 450px;
+    position: absolute;
+    top: 453px;
+    left: 130px;
+}
+#cat2 {
+    width: 350px;
+    position: absolute;
+    top: 590px;
+    left: 180px;
+}
+.back {
+    position: absolute;
+    overflow: hidden;
+    top: 860px;
+    left: 305px;
+    color: #aeaeae;
+    border: solid 2px;
+    border-radius: 5px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    padding-left: 8px;
+    padding-right: 8px;
+}
+.date2 {
+    position: absolute;
+    overflow: hidden;
+    top: 310px;
+    left: 310px;
+    color: #93713E;
+}
+.desc2 {
+    position: absolute;
+    overflow: hidden;
+    top: 310px;
+    left: 190px;
+    color: #040cd9;
+    text-decoration: underline;
+}
+.contact2 {
+    font-size: 15px;
+    color: #93713E;
+    position: absolute;
+    top: 350px;
+    left: 130px;
+}
+.divider3 {
+    font-size: 15px;
+    color: #93713E;
+    position: absolute;
+    top: 400px;
+    left: 280px;
+}
+.direct {
+    position: absolute;
+    overflow: hidden;
+    top: 490px;
+    left: 180px;
+    color: #002bb5;
+    text-decoration: underline;
+}
+.location2 {
+    position: absolute;
+    overflow: hidden;
+    top: 520px;
+    left: 180px;
+    color: #93713E;
+}
