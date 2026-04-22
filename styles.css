@@ -130,10 +130,10 @@
     left: 130px;
 }
 #cat2 {
-    width: 350px;
+    width: 390px;
     position: absolute;
-    top: 590px;
-    left: 180px;
+    top: 575px;
+    left: 170px;
 }
 .back {
     position: absolute;
@@ -192,3 +192,5 @@
     left: 180px;
     color: #93713E;
 }
+
+
